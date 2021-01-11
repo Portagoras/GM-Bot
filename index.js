@@ -28,4 +28,4 @@ console.log(generateResponse());
 console.log(generateResponse());
 console.log(generateResponse());
 
-client.login('')
+client.login('') // Enter your token here!
