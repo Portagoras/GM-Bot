@@ -21,11 +21,5 @@ client.on('message', msg =>{
     if(msg.content.toLowerCase() === 'gm')
         msg.reply(generateResponse());
 });
-console.log(generateResponse());
-console.log(generateResponse());
-console.log(generateResponse());
-console.log(generateResponse());
-console.log(generateResponse());
-console.log(generateResponse());
 
 client.login('') // Enter your token here!
